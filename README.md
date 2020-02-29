@@ -1,4 +1,8 @@
 # WildFire-Project
+
+## Introduction
+My team and I are undergraduate students at the University of Toronto. We joined LearnAI which is a society aiming to help students who can't take AI related courses, either because they are in lower years or aren't study computer science, and give them an opportunity to explore this fascinating field. After a semester of workshops, this is the first time we worked on an ML project.
+
 ## Problem
 Massive wildfires are destroying homes and habitats aroudn the world. With wildfires, early detection and prevention becomes key to containing the fire.
 Most recently Australia's bush fire has been estimated to have taken 1.25 billion animal life. The late 2018 Woolsley fire in California has detsroyed more than 1500 building.
